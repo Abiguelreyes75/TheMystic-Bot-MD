@@ -29,7 +29,7 @@ global.prems = ['51995386439'];
 global.BASE_API_DELIRIUS = "https://delirius-apiofc.vercel.app";
 
 global.packname = 'Sticker';
-global.author = 'BrunoSobrino';
+global.author = 'lilsammie.exe';
 global.wm = 'The Mystic - Bot';
 global.titulowm = 'Mystic Bot';
 global.titulowm2 = `Mystic Bot`
